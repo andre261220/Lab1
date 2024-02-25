@@ -1,7 +1,7 @@
 # Lab1
 Reporte de la primer practica de Diseño de sistemas Robóticos -LRT4102-
 
-## Intoducción a Python
+## Introducción a Python
 
 Python es un lenguaje de programación de alto nivel, interpretado y multipropósito. Es conocido por su sintaxis clara y legible, lo que lo hace especialmente adecuado para principiantes y profesionales por igual. A continuación, se presenta una breve descripción de los conceptos básicos de Python:
 1. Tipos de variables:
