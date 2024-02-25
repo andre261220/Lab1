@@ -54,7 +54,9 @@ Estos son algunos de los conceptos básicos de Python que se explicaron en clase
 ## Problemas a Resolver
 
 1. Escribir un programa que lea un entero positivo “n” introducido por el usuario y después muestreen pantalla la suma de todos los enteros desde 1 hasta n . La suma de los primeros enterospositivos puede ser calculada de la siguiente forma:
+   
    ![suma](https://github.com/andre261220/Lab1/assets/132303647/9d4b63ea-3d91-49ce-9749-6a20d85a2a8d)
+   
 2. Escribir un programa que pregunte al usuario por el número de horas trabajadas y el costo por hora.Después debe mostrar por pantalla la paga que le corresponde.
 3. Crear una lista de nombre + sueldo por hora + horas trabajadas de al menos seis operadores.Imprime el nombre y el sueldo a pagar de cada operador.
 4. Crear una lista llamada numeros que contenga al menos 10 números, calcula el promedio de los números pares y el producto de los números impares eI imprime los resultados.
@@ -73,6 +75,6 @@ o o o o o
 
 o X X X o
 
-Deberá imprimir también la ruta que siguió.Mostrar un segundo mapa con el “camino” seguido por el robot mediante flechas
+Deberá imprimir también la ruta que siguió. Mostrar un segundo mapa con el “camino” seguido por el robot mediante flechas.
 
 
