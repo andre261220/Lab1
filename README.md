@@ -81,9 +81,9 @@ o X X X o
 
 Deberá imprimir también la ruta que siguió. Mostrar un segundo mapa con el “camino” seguido por el robot mediante flechas.
 
-##Solucion de los problemas
+## Solucion de los problemas
 
-1. **suma.py**
+**1. suma.py**
 
 ```python
 n = int(input("inntoduce un numero entero: "))
@@ -106,7 +106,7 @@ inntoduce un numero entero: 2
 la suma de tu numero entero es: 3.0
 ```
 
-2. **trabajo.py**
+**2. trabajo.py**
 
 ```python
 h = int(input("Introduce el número de horas trabajadas: "))
@@ -132,7 +132,7 @@ Introduce el costo por hora: $500
 Su pago correpondiente es: $1000
 ```
 
-3.  **lista.py**
+**3.  lista.py**
 
 ```python
 # Definir una lista de operadores con sus respectivos datos
@@ -171,7 +171,7 @@ El operador Enrique debe recibir un sueldo de $420.
 El operador Aldo debe recibir un sueldo de $481.
 ```
 
-4. **numeros.py**
+**4. numeros.py**
 
 ```python
 # Definir una lista de números
@@ -209,7 +209,7 @@ El promedio de los números pares es: 21.5
 El producto de los números impares es: 12352725
 ```
 
-5. **NoSecreto.py**
+**5. NoSecreto.py**
 
 ```python
 import random
@@ -249,7 +249,8 @@ Adivina el número secreto (entre 1 y 10): 8
 Número de intentos: 2
 ```
 
-6. **Robot Explorador**
+**6. Robot Explorador**
+
 Descripcion del ultimo problema que se podra encontrar en la carpeta EjerciciosS2.
 
 **Importación de bibliotecas:**
