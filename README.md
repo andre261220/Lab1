@@ -12,7 +12,8 @@ Python es un lenguaje de programación de alto nivel, interpretado y multipropó
    * Tuplas: secuencias ordenadas e inmutables de elementos.
    * Diccionarios: colecciones no ordenadas de pares clave-valor.
 
-3. Estructura de bucle *for*
+2. Estructura de bucle *for*:
+   
 El bucle *for* en Python se utiliza para iterar sobre una secuencia (como una lista, tupla, diccionario o cadena) o cualquier objeto iterable. La estructura general de un bucle *for* es la siguiente:
 
 ```python
@@ -20,7 +21,7 @@ El bucle *for* en Python se utiliza para iterar sobre una secuencia (como una li
     # Cuerpo del bucle
 ```
 
-3.  Estructuras de un Bucle *while*
+3.  Estructuras de un Bucle *while*:
 
 El bucle *while* en Python se utiliza para repetir un bloque de código mientras se cumpla una condición específica. La estructura general de un bucle *while* es la siguiente:
 
@@ -29,7 +30,8 @@ El bucle *while* en Python se utiliza para repetir un bloque de código mientras
     # Cuerpo del bucle
 ```
 
-4. Estructura de una declaracion *if-elif-else*
+4. Estructura de una declaracion *if-elif-else*:
+
 La declaración *if* se utiliza para ejecutar un bloque de código si se cumple una condición específica. La estructura general de una declaración *if* es la siguiente:
 
 ```python
@@ -42,6 +44,7 @@ else:
 ```
 
 5. Funciones:
+
 Las funciones en Python son bloques de código reutilizables que realizan una tarea específica. Se definen utilizando la palabra clave *def*. La estructura general de una función es la siguiente:
 ```python
     def nombre_funcion(parametros):
